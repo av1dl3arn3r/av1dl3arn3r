@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @av1dl3arn3r
-- 👀 I’m interested in system and functional programming
+- 👀 I’m interested in systems theory and functional programming
 - 🌱 I’m currently learning Haskell, Scala and Idris
 - 💞️ I’m looking to collaborate on some hipster projects :D
 
